@@ -2,4 +2,7 @@ git merge
 git add
 git stash
 git clone
-git all commands 
+git push 
+git pull
+git branch
+git all commands
